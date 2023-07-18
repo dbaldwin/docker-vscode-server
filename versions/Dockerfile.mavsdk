@@ -1,0 +1,3 @@
+FROM vscode:python
+
+RUN pip install mavsdk
